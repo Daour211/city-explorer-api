@@ -19,4 +19,6 @@
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
-Mohammad Al Ramahai
+Mohammad Al Ramahai 
+
+Ahmad Abu Osbeh for lab08 worked together for understanding the lab
