@@ -73,7 +73,7 @@ async function getWeather(req, res) {
         .then(weatherData => res.send(weatherData))
         .catch((error) => {
             console.error(error);
-            res.status(500).send('Sorry. Something went wrong!')
+            res.status(500).send('Sorry. Something went wrong!',error)
         });
 
 
